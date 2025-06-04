@@ -45,5 +45,40 @@ In the downloaded titanic dataset, I identified the columns for missing values. 
 
 **Drop the ‘deck’ column because of too many missing values**
 
-###
 Here is the cleaned titanic dataset [Download here](https://drive.google.com/file/d/1xUwgCaqfGq7L9ebol4cNYP15Yae4ndgD/view?usp=sharing) . After the data cleaning, the data entry was reduced to 889 passengers and 14 columns, having dropped 'deck column. 
+
+### Tools used:
+**Python (Pandas, NumPy, Matplotlib, Seaborn)**
+
+**Excel**
+
+**Jupyter Notebook**
+
+## Business Questions Answered
+
+1. What is the survival rate of passengers?
+
+2. What is the gender distribution of passengers?
+
+3. How does survival rate differ by clas
+
+4. What is the distribution of passenger ages?
+
+5. How many passengers embarked from each location?
+
+6. What is the average fare paid per class?
+
+7. How does gender affect survival rates?
+
+8. What is the correlation between fare and survival?
+
+9. How does the number of siblings /spouses aboard affect survival?
+
+10. What is the age distribution by class?
+
+11. What is the survival rate by embarkation point?
+
+12. What is the impact of having parents/ children aboard on survival?
+
+
+
